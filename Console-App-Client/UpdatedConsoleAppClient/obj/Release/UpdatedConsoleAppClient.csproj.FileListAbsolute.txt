@@ -1,0 +1,14 @@
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\bin\Release\UpdatedConsoleAppClient.exe.config
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\bin\Release\UpdatedConsoleAppClient.exe
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\bin\Release\UpdatedConsoleAppClient.pdb
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.csproj.AssemblyReference.cache
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.exe
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.pdb
+C:\Users\noawa\Desktop\Astronomical Math Processing Suite\Console-App-Client\UpdatedConsoleAppClient\bin\Release\UpdatedConsoleAppClient.exe.config
+C:\Users\noawa\Desktop\Astronomical Math Processing Suite\Console-App-Client\UpdatedConsoleAppClient\bin\Release\UpdatedConsoleAppClient.exe
+C:\Users\noawa\Desktop\Astronomical Math Processing Suite\Console-App-Client\UpdatedConsoleAppClient\bin\Release\UpdatedConsoleAppClient.pdb
+C:\Users\noawa\Desktop\Astronomical Math Processing Suite\Console-App-Client\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.csproj.AssemblyReference.cache
+C:\Users\noawa\Desktop\Astronomical Math Processing Suite\Console-App-Client\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\noawa\Desktop\Astronomical Math Processing Suite\Console-App-Client\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.exe
+C:\Users\noawa\Desktop\Astronomical Math Processing Suite\Console-App-Client\UpdatedConsoleAppClient\obj\Release\UpdatedConsoleAppClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\bin\Debug\UpdatedConsoleAppClient.exe.config
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\bin\Debug\UpdatedConsoleAppClient.exe
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\bin\Debug\UpdatedConsoleAppClient.pdb
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Debug\UpdatedConsoleAppClient.csproj.AssemblyReference.cache
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Debug\UpdatedConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Debug\UpdatedConsoleAppClient.exe
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppClient\UpdatedConsoleAppClient\obj\Debug\UpdatedConsoleAppClient.pdb
