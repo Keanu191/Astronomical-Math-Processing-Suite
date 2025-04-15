@@ -1,0 +1,9 @@
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\bin\Debug\UpdatedConsoleAppServer.exe.config
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\bin\Debug\UpdatedConsoleAppServer.exe
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\bin\Debug\UpdatedConsoleAppServer.pdb
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\bin\Debug\AstroMath.dll
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\obj\Debug\UpdatedConsoleAppServer.csproj.AssemblyReference.cache
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\obj\Debug\UpdatedConsoleAppServer.csproj.CoreCompileInputs.cache
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\obj\Debug\UpdatedC.4858B1AA.Up2Date
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\obj\Debug\UpdatedConsoleAppServer.exe
+C:\Users\noawa\Documents\GitHub\UpdatedConsoleAppServer\UpdatedConsoleAppServer\obj\Debug\UpdatedConsoleAppServer.pdb
