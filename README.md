@@ -23,7 +23,7 @@ Astronomical-Math-Processing-Suite is a comprehensive solution for astronomical 
   - **Language Change**:  
     ![Language Change](https://i.imgur.com/wUn6iqn.png)
   - **Calculations**:  
-    ![Calculations](https://imgur.com/gallery/calculations-IoSE950)
+    ![Calculations](https://i.imgur.com/3Fum7TJ.png)
   - **Connection Test**:  
     ![Connection Test](https://i.imgur.com/YyrvFuW.png)
 
